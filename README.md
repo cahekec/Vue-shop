@@ -1,7 +1,3 @@
-# Fullstack Vue
-
-## Routing - Shopping Cart
-
 1. Ensure you have `npm` installed.
 
 2. Install the dependencies
